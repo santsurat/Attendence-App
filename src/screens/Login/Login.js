@@ -58,7 +58,7 @@ const Login = () => {
         <Card style={styles.Card}>
           <View>
             <Text style={styles.container}>
-              ADANBAGH ATTENDENCE MANAGEMENT SYSTEM
+            ATTENDENCE MANAGEMENT SYSTEM
             </Text>
           </View>
 
